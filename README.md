@@ -176,3 +176,14 @@ Use this project for learning and demonstration. A model's estimated probability
 **Parul Sharma**
 
 Academic machine-learning project focused on employee attrition prediction and interactive HR analytics.
+
+
+---
+
+## 📊 Dashboard Preview
+
+Explore the Employee Attrition Prediction dashboard built using Streamlit.
+
+![Employee Attrition Prediction Dashboard](screenshots/dashboard.png)
+
+
